@@ -1,0 +1,22 @@
+.leftAlign{
+    text-align: left;
+    width: 100%;
+    resize: unset;
+}
+.fontSize{
+    font-size: 2px;
+    height: 102px;
+}
+.table
+{
+    border-spacing: 1px;
+    padding: 1px;
+    border: 0px;
+    height: 100px;
+}
+
+.AlignSize{
+    text-align: left;
+    width: 100%;
+    resize: unset;
+}
